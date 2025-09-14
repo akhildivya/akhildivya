@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Divya K S</h1>
 <h3 align="center">A skilled MERN Stack Developer from Kerala.</h3>
 
-- 🔭 I’m currently working on **Doctors appointment app**
+- 🔭 I’m currently working on **Portfolio App**
 
 - 💬 Ask me about **Mongo DB, Node.js, Express or React**
 
